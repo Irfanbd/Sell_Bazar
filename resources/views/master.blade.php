@@ -28,6 +28,17 @@ integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7T
         height: 500px;
         padding-top: 100px;
     }
+    img.slider-img
+    {
+        height:400px !important;
+    }
+    .custom-product
+    {
+        height: 600px;
+    }
+    .slider-text{
+        background-color: #7e877e96 !important;
+    }
 </style>
 
 </html>
