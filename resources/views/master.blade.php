@@ -34,7 +34,7 @@
         background-color: #35443585 !important;
     }
     .trending-image{
-        height: 100px;
+        height: 70px;
     }
     .trening-item{
         float: left;
